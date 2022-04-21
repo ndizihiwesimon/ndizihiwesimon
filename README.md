@@ -3,7 +3,7 @@
 Research-based developer adds experience over more than 6 years in technology field, collaborating and working on multiple web-based, mobile application and research projects. Passionate, hardworking coder with penchant for developing customized interfaces that factor in unique demands for enhancement, accessibility, and security. 
 
 - I’m interested in Programming and whole technology as well
-- I’m currently learning Python, Dart, Flutter and Django
+- I’m currently learning Python, Dart, Js, Flutter, React and Django
 - I’m looking to collaborate with other developers
 - 2022 goal: is to contribute more on open source projects
 
@@ -12,14 +12,24 @@ Research-based developer adds experience over more than 6 years in technology fi
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sqlite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 
 <br /> <br />
 
+
 ### Github Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndizihiwesimon&count_private=true&show_icons=true&theme=github_dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndizihiwesimon&theme=github-dark-blue&hide_border=True&fire=ff5a00)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndizihiwesimon&hide=SCSS,css&langs_count=4&exclude_repo=Templates&theme=github_dark&hide_border=True&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
