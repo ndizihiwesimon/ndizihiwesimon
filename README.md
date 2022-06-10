@@ -5,7 +5,7 @@ Research-based developer adds experience over more than 6 years in technology fi
 - I’m interested in Programming and whole technology as well
 - I’m currently learning Python, Dart, Js, Flutter, React and Django
 - I’m looking to collaborate with other developers
-- 2022 goal: is to contribute more on open source projects.
+- 2022 goal: is to contribute more on open source projects
 
 ### Languages and Tools:
 
