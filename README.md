@@ -1,11 +1,12 @@
 ## I'm Simon Pierre Ndizihiwe from Kigali - Rwanda
 ### About me
-Research-based developer adds experience over more than 6 years in technology field, collaborating and working on multiple web-based, mobile application and research projects. Passionate, hardworking coder with penchant for developing customized interfaces that factor in unique demands for enhancement, accessibility, and security. 
+I'm a full-stack developer with more than two years of expertise. I love using technology to solve 
+problems. I enjoy adding my expertise to active, and open-source projects. Enhancing my abilities 
+and picking up new knowledge are things I always look forward to.
 
-- I’m interested in Programming and whole technology as well
-- I’m currently learning Python, Dart, Js, Flutter, React and Django
+- I’m tech enthusiast
 - I’m looking to collaborate with other developers
-- 2022 goal: is to contribute more on open source projects
+- 2023 goal: is to contribute more on open source projects
 
 ### Languages and Tools:
 
