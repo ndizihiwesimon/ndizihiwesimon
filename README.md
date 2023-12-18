@@ -1,8 +1,8 @@
 ## I'm Simon Pierre Ndizihiwe from Kigali - Rwanda
 ### About me
-I'm a Mobile developer with more than five years of expertise. I love using technology to solve 
-problems. I enjoy adding my expertise to active, and open-source projects. Enhancing my abilities 
-and picking up new knowledge are things I always look forward to.
+I am MSIT student specializing in Applied Machine Learning. I have experience in 
+software development and data science. I am interested in becoming a researcher in 
+aforementioned areas.
 
 - I’m tech enthusiast
 - I’m looking to collaborate with other developers
