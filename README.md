@@ -6,7 +6,7 @@ aforementioned areas.
 
 - I’m tech enthusiast
 - I’m looking to collaborate with other developers
-- 2023 goal: Learn more about flutter framework and go to grad school
+- 2024 goal: Dig deep into Data Science and Machine Learning
 
 ### Languages and Tools:
 
