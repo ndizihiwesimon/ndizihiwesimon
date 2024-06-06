@@ -22,14 +22,19 @@ data science and machine learning.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndizihiwesimon&theme=github-dark-blue&hide_border=True&fire=ff5a00)](https://git.io/streak-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ndizihiwesimon&theme=github_dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me
 
-[![X](https://img.shields.io/badge/x-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Nomiiiso)
+<a href="https://twitter.com/Nomiiiso" style="margin-bottom: 5px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" height="30" alt="X" />
+</a>
 &nbsp; &nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndizihiwesimon/)
+<a href="https://www.linkedin.com/in/ndizihiwesimon/" style="margin-bottom: 5px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" />
+</a>
 &nbsp; &nbsp;
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nomiiiso)
+<a href="https://instagram.com/nomiiiso" style="margin-bottom: 5px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
+</a>
 
  
 <!---
