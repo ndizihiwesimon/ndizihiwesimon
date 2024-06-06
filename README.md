@@ -22,20 +22,14 @@ data science and machine learning.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndizihiwesimon&theme=github-dark-blue&hide_border=True&fire=ff5a00)](https://git.io/streak-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ndizihiwesimon&theme=github_dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me
- 
-<a href="https://twitter.com/Nomiiiso" target="_blank"  style="text-decoration: none;">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-&nbsp; &nbsp; 
-<a href="https://www.linkedin.com/in/ndizihiwesimon/" target="_blank"  style="text-decoration: none;">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nomiiiso)
 &nbsp; &nbsp;
-<a href="https://instagram.com/nomiiiso" target="_blank" style="text-decoration: none;">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndizihiwesimon/)
+&nbsp; &nbsp;
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nomiiiso)
+
  
 <!---
 ndizihiwesimon/ndizihiwesimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
