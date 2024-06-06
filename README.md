@@ -25,17 +25,12 @@ data science and machine learning.
 
 ### Connect with me
 
-<a href="https://twitter.com/Nomiiiso" style="margin-bottom: 5px;">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="30" height="30" alt="X" />
-</a>
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nomiiiso)
 &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/ndizihiwesimon/" style="margin-bottom: 5px;">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="30" height="30" alt="LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndizihiwesimon/)
 &nbsp; &nbsp;
-<a href="https://instagram.com/nomiiiso" style="margin-bottom: 5px;">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="30" height="30" alt="Instagram" />
-</a>
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nomiiiso)
+
 
 
  
