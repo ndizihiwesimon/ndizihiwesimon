@@ -22,19 +22,21 @@ data science and machine learning.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndizihiwesimon&theme=github-dark-blue&hide_border=True&fire=ff5a00)](https://git.io/streak-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ndizihiwesimon&theme=github_dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me
 
 <a href="https://twitter.com/Nomiiiso" style="margin-bottom: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" height="30" alt="X" />
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="30" height="30" alt="X" />
 </a>
 &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/ndizihiwesimon/" style="margin-bottom: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="30" height="30" alt="LinkedIn" />
 </a>
 &nbsp; &nbsp;
 <a href="https://instagram.com/nomiiiso" style="margin-bottom: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="30" height="30" alt="Instagram" />
 </a>
+
 
  
 <!---
