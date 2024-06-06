@@ -2,9 +2,9 @@
 ### About me
 I am MSIT student specializing in Applied Machine Learning. I have experience in 
 software development and data science. I am interested in becoming a researcher in 
-aforementioned areas.
+data science and machine learning.
 
-- I’m tech enthusiast
+- I am graduate student and tech enthusiast
 - I’m looking to collaborate with other developers
 - 2024 goal: Dig deep into Data Science and Machine Learning
 
@@ -12,12 +12,6 @@ aforementioned areas.
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sqlite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-
- <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
- 
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 
 <br /> <br />
