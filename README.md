@@ -27,8 +27,6 @@ aforementioned areas.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndizihiwesimon&count_private=true&show_icons=true&theme=github_dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndizihiwesimon&theme=github-dark-blue&hide_border=True&fire=ff5a00)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndizihiwesimon&hide=SCSS,css&langs_count=4&exclude_repo=Templates&theme=github_dark&hide_border=True&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ndizihiwesimon&theme=github_dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
