@@ -25,7 +25,7 @@ data science and machine learning.
 
 ### Connect with me
 
-[![X/Twitter](https://img.shields.io/badge/x-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Nomiiiso)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nomiiiso)
 &nbsp; &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndizihiwesimon/)
 &nbsp; &nbsp;
